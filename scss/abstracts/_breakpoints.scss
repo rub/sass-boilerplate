@@ -1,0 +1,12 @@
+// Media-query breakpoints
+// -----------------------
+
+// This breakpoints map is inspired by the Google Material Design guidelines
+// https://material.io/guidelines/layout/responsive-ui.html#responsive-ui-breakpoints
+$breakpoints: (
+  'xsmall': (max-width: 599px),
+  'small': (min-width: 600px),
+  'medium': (min-width: 960px),
+  'large': (min-width: 1280px),
+  'xlarge': (min-width: 1920px),
+);
