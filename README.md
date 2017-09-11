@@ -1,3 +1,3 @@
-#Sass Boilerplate
+# Sass Boilerplate
 
 A lightweight Sass boilerplate.
